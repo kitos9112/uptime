@@ -3,29 +3,27 @@ owner: kitos9112
 repo: uptime
 
 sites:
-  - name: Google
+  - name: DMZ UK Home Website
+    url: dmz.uk.${HOME_SECRET_DOMAIN}
+  - name: HASS UK Home Website
+    url: hass.uk.${HOME_SECRET_DOMAIN}
+  - name: MOODLE BCN Home Website
+    url: moodle.bcn.${HOME_SECRET_DOMAIN}
+  - name: Google Website
     icon: https://www.google.com/favicon.ico
     url: https://www.google.com
-  - name: Wikipedia
+  - name: Wikipedia Website
     url: https://en.wikipedia.org
   - name: Vinos Divertidos
     url: https://vinosdivertidos.es
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Vodafone
+  - name: Vodafone Website
     url: www.vodafone.com
-  - name: UK DMZ Home Website
-    url: dmz.uk.$HOME_SECRET_DOMAIN
-  - name: HASS UK Home Website
-    url: hass.uk.$HOME_SECRET_DOMAIN
-  - name: MOODLE BCN Home Website
-    url: moodle.bcn.$HOME_SECRET_DOMAIN
-  - name: Google DNS 1
+  - name: Google DNS 1 TCP Probe
     icon: https://www.google.com/favicon.ico
     check: "tcp-ping"
     url: 8.8.4.4
     port: 53
-  - name: Google DNS 2
+  - name: Google DNS 2 TCP Probe
     icon: https://www.google.com/favicon.ico
     check: "tcp-ping"
     url: 8.8.8.8
@@ -37,7 +35,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.$HOME_SECRET_DOMAIN
+  # cname: uptime.${HOME_SECRET_DOMAIN}
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
