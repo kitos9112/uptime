@@ -1,26 +1,49 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: kitos9112
+repo: uptime
 
 sites:
   - name: Google
+    icon: https://www.google.com/favicon.ico
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Vinos Divertidos
+    url: https://vinosdivertidos.es
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Vodafone
+    url: www.vodafone.com
+  - name: UK DMZ Home Website
+    url: dmz.uk.$HOME_SECRET_DOMAIN
+  - name: HASS UK Home Website
+    url: hass.uk.$HOME_SECRET_DOMAIN
+  - name: MOODLE BCN Home Website
+    url: moodle.bcn.$HOME_SECRET_DOMAIN
+  - name: Google DNS 1
+    icon: https://www.google.com/favicon.ico
+    check: "tcp-ping"
+    url: 8.8.4.4
+    port: 53
+  - name: Google DNS 2
+    icon: https://www.google.com/favicon.ico
+    check: "tcp-ping"
+    url: 8.8.8.8
+    port: 53
+
+assignees:
+  - kitos9112
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: uptime.$HOME_SECRET_DOMAIN
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  theme: dark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is my personal over-the-Internet monitoring web monitoring based on GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
@@ -29,3 +52,18 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
+
+user-agent: kitos9112
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+robotsText: "User-agent: * \n Disallow: /"
