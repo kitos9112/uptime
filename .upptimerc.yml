@@ -4,11 +4,11 @@ repo: uptime
 
 sites:
   - name: DMZ UK Home Website
-    url: https://dmz.uk.${HOME_SECRET_DOMAIN}
+    url: https://dmz.uk.$HOME_SECRET_DOMAIN
   - name: HASS UK Home Website
-    url: https://hass.uk.${HOME_SECRET_DOMAIN}
+    url: https://hass.uk.$HOME_SECRET_DOMAIN
   - name: MOODLE BCN Home Website
-    url: https://moodle.bcn.${HOME_SECRET_DOMAIN}
+    url: https://moodle.bcn.$HOME_SECRET_DOMAIN
   - name: Google Website
     icon: https://www.google.com/favicon.ico
     url: https://www.google.com
@@ -35,7 +35,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.${HOME_SECRET_DOMAIN}
+  # cname: uptime.$HOME_SECRET_DOMAIN
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
