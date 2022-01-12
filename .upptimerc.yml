@@ -6,7 +6,10 @@ sites:
   - name: DMZ UK Home Website
     url: "https://dmz.uk.${HOME_SECRET_DOMAIN}/"
   - name: TEST
-    url: https://$TEST
+    icon: https://www.google.com/favicon.ico
+    check: "tcp-ping"
+    url: moodle.bcn.$HOME_SECRET_DOMAIN
+    port: 443
   - name: HASS UK Home Website
     url: https://hass.uk$HOME_SECRET_DOMAIN_V2
   - name: MOODLE BCN Home Website
