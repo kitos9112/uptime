@@ -4,16 +4,11 @@ repo: uptime
 
 sites:
   - name: DMZ UK Home Website
-    url: "https://dmz.uk.${HOME_SECRET_DOMAIN}/"
-  - name: TEST
-    icon: https://www.google.com/favicon.ico
-    check: "tcp-ping"
-    url: moodle.bcn.$HOME_SECRET_DOMAIN
-    port: 443
+    url: https://dmz.uk.${HOME_SECRET_DOMAIN}
   - name: HASS UK Home Website
-    url: https://hass.uk$HOME_SECRET_DOMAIN_V2
+    url: https://hass.uk.${HOME_SECRET_DOMAIN}
   - name: MOODLE BCN Home Website
-    url: https://moodle.bcn.$HOME_SECRET_DOMAIN
+    url: https://moodle.bcn.${HOME_SECRET_DOMAIN}
   - name: Google Website
     icon: https://www.google.com/favicon.ico
     url: https://www.google.com
@@ -21,6 +16,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Vinos Divertidos
     url: https://vinosdivertidos.es
+  - name: Avance Import
+    url: https://avanceimport.com
   - name: Vodafone Website
     url: www.vodafone.com
   - name: Google DNS 1 TCP Probe
