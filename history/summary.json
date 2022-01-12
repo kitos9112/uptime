@@ -1,7 +1,7 @@
 [
   {
     "name": "DMZ UK Home Website",
-    "url": "https://dmz.uk.${HOME_SECRET_DOMAIN}/",
+    "url": "https://dmz.uk.${HOME_SECRET_DOMAIN}",
     "icon": "https://favicons.githubusercontent.com/dmz.uk.",
     "slug": "dmz-uk-home-website",
     "status": "down",
@@ -16,52 +16,34 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 50,
+      "2022-01-12": 60,
       "2022-01-11": 334
     }
   },
   {
-    "name": "TEST",
-    "url": "moodle.bcn.$HOME_SECRET_DOMAIN",
-    "icon": "https://www.google.com/favicon.ico",
-    "slug": "test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "HASS UK Home Website",
-    "url": "https://hass.uk$HOME_SECRET_DOMAIN_V2",
-    "icon": "https://favicons.githubusercontent.com/hass.uk",
+    "url": "https://hass.uk.${HOME_SECRET_DOMAIN}",
+    "icon": "https://favicons.githubusercontent.com/hass.uk.",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 50,
+      "2022-01-12": 60,
       "2022-01-11": 345
     }
   },
   {
     "name": "MOODLE BCN Home Website",
-    "url": "https://moodle.bcn.$HOME_SECRET_DOMAIN",
+    "url": "https://moodle.bcn.${HOME_SECRET_DOMAIN}",
     "icon": "https://favicons.githubusercontent.com/moodle.bcn.",
     "slug": "moodle-bcn-home-website",
     "status": "down",
@@ -76,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 50,
+      "2022-01-12": 60,
       "2022-01-11": 345
     }
   },
@@ -91,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "time": 84,
+    "timeDay": 84,
+    "timeWeek": 84,
+    "timeMonth": 84,
+    "timeYear": 84,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 228,
-    "timeWeek": 228,
-    "timeMonth": 228,
-    "timeYear": 228,
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +109,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1326,
-    "timeDay": 1326,
-    "timeWeek": 1326,
-    "timeMonth": 1326,
-    "timeYear": 1326,
+    "time": 1297,
+    "timeDay": 1297,
+    "timeWeek": 1297,
+    "timeMonth": 1297,
+    "timeYear": 1297,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Avance Import",
+    "url": "https://avanceimport.com",
+    "icon": "https://favicons.githubusercontent.com/avanceimport.com",
+    "slug": "avance-import",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1083,
+    "timeDay": 1083,
+    "timeWeek": 1083,
+    "timeMonth": 1083,
+    "timeYear": 1083,
     "dailyMinutesDown": {}
   },
   {
@@ -145,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 548,
-    "timeWeek": 548,
-    "timeMonth": 548,
-    "timeYear": 548,
+    "time": 518,
+    "timeDay": 518,
+    "timeWeek": 518,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {}
   },
   {
@@ -181,11 +181,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 33,
-    "timeDay": 33,
-    "timeWeek": 33,
-    "timeMonth": 33,
-    "timeYear": 33,
+    "time": 30,
+    "timeDay": 30,
+    "timeWeek": 30,
+    "timeMonth": 30,
+    "timeYear": 30,
     "dailyMinutesDown": {}
   }
 ]
