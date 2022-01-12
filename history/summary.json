@@ -1,7 +1,7 @@
 [
   {
     "name": "DMZ UK Home Website",
-    "url": "https://dmz.uk.$HOME_SECRET_DOMAIN",
+    "url": "https://dmz.uk.${HOME_SECRET_DOMAIN}/",
     "icon": "https://favicons.githubusercontent.com/dmz.uk.",
     "slug": "dmz-uk-home-website",
     "status": "down",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 40,
+      "2022-01-12": 45,
       "2022-01-11": 334
     }
   },
@@ -25,23 +25,25 @@
     "url": "https://$TEST",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "test",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "88.92%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "88.92%",
+    "uptimeMonth": "88.92%",
+    "uptimeYear": "88.92%",
     "time": 93,
     "timeDay": 93,
     "timeWeek": 93,
     "timeMonth": 93,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-12": 1
+    }
   },
   {
     "name": "HASS UK Home Website",
-    "url": "https://hass.uk.$HOME_SECRET_DOMAIN",
-    "icon": "https://favicons.githubusercontent.com/hass.uk.",
+    "url": "https://hass.uk$HOME_SECRET_DOMAIN_V2",
+    "icon": "https://favicons.githubusercontent.com/hass.uk",
     "slug": "hass-uk-home-website",
     "status": "down",
     "uptime": "0.13%",
@@ -55,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 40,
+      "2022-01-12": 45,
       "2022-01-11": 345
     }
   },
@@ -76,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-12": 40,
+      "2022-01-12": 45,
       "2022-01-11": 345
     }
   },
@@ -91,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "time": 222,
+    "timeDay": 222,
+    "timeWeek": 222,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -127,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1376,
-    "timeDay": 1376,
-    "timeWeek": 1376,
-    "timeMonth": 1376,
-    "timeYear": 1376,
+    "time": 1365,
+    "timeDay": 1365,
+    "timeWeek": 1365,
+    "timeMonth": 1365,
+    "timeYear": 1365,
     "dailyMinutesDown": {}
   },
   {
@@ -145,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 664,
-    "timeWeek": 664,
-    "timeMonth": 664,
-    "timeYear": 664,
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
     "dailyMinutesDown": {}
   },
   {
@@ -163,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 8,
-    "timeDay": 8,
-    "timeWeek": 8,
-    "timeMonth": 8,
-    "timeYear": 8,
+    "time": 7,
+    "timeDay": 7,
+    "timeWeek": 7,
+    "timeMonth": 7,
+    "timeYear": 7,
     "dailyMinutesDown": {}
   },
   {
@@ -181,11 +183,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 41,
-    "timeDay": 41,
-    "timeWeek": 41,
-    "timeMonth": 41,
-    "timeYear": 41,
+    "time": 36,
+    "timeDay": 36,
+    "timeWeek": 36,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {}
   }
 ]
