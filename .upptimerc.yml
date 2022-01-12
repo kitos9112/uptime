@@ -8,6 +8,8 @@ sites:
   - name: HASS UK Home Website
     url: hass.uk.${HOME_SECRET_DOMAIN}
   - name: MOODLE BCN Home Website
+    url: moodle.bcn.$SECRET_WEBSITE
+  - name: MOODLE BCN Home Website
     url: moodle.bcn.${HOME_SECRET_DOMAIN}
   - name: Google Website
     icon: https://www.google.com/favicon.ico
