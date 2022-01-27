@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 34,
+      "2022-01-27": 684,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 34,
+      "2022-01-27": 684,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-27": 34,
+      "2022-01-27": 684,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
@@ -148,36 +148,40 @@
     "url": "https://vinosdivertidos.es",
     "icon": "https://favicons.githubusercontent.com/vinosdivertidos.es",
     "slug": "vinos-divertidos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1360,
-    "timeDay": 1440,
+    "timeDay": 1319,
     "timeWeek": 1518,
     "timeMonth": 1360,
     "timeYear": 1360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 1
+    }
   },
   {
     "name": "Avance Import",
     "url": "https://avanceimport.com",
     "icon": "https://favicons.githubusercontent.com/avanceimport.com",
     "slug": "avance-import",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1293,
-    "timeDay": 1431,
+    "timeDay": 1621,
     "timeWeek": 1311,
     "timeMonth": 1293,
     "timeYear": 1293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "Vodafone Website",
