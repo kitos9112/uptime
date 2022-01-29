@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 176,
+      "2022-01-29": 191,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 176,
+      "2022-01-29": 191,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-29": 176,
+      "2022-01-29": 191,
       "2022-01-28": 1440,
       "2022-01-27": 1440,
       "2022-01-26": 1440,
@@ -154,19 +154,19 @@
     "url": "https://vinosdivertidos.es",
     "icon": "https://favicons.githubusercontent.com/vinosdivertidos.es",
     "slug": "vinos-divertidos",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1403,
-    "timeDay": 1779,
-    "timeWeek": 1577,
-    "timeMonth": 1403,
-    "timeYear": 1403,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1404,
+    "timeDay": 1661,
+    "timeWeek": 1563,
+    "timeMonth": 1404,
+    "timeYear": 1404,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 16
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://avanceimport.com",
     "icon": "https://favicons.githubusercontent.com/avanceimport.com",
     "slug": "avance-import",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1240,
-    "timeDay": 717,
-    "timeWeek": 1244,
-    "timeMonth": 1240,
-    "timeYear": 1240,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1246,
+    "timeDay": 933,
+    "timeWeek": 1255,
+    "timeMonth": 1246,
+    "timeYear": 1246,
     "dailyMinutesDown": {
-      "2022-01-29": 0
+      "2022-01-29": 16
     }
   },
   {
