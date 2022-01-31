@@ -1,7 +1,7 @@
 url: www.vodafone.com
-status: down
-code: 500
-responseTime: 134
-lastUpdated: 2022-01-31T09:44:23.894Z
+status: up
+code: 200
+responseTime: 204
+lastUpdated: 2022-01-31T09:52:57.982Z
 startTime: Tue Jan 11 2022 18:26:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
