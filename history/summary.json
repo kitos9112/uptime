@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 42,
+      "2022-02-18": 1195,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 42,
+      "2022-02-18": 1195,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
@@ -132,7 +132,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-18": 42,
+      "2022-02-18": 1195,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
       "2022-02-15": 1440,
@@ -214,10 +214,10 @@
     "url": "https://vinosdivertidos.es",
     "icon": "https://favicons.githubusercontent.com/vinosdivertidos.es",
     "slug": "vinos-divertidos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1410,
@@ -226,6 +226,7 @@
     "timeMonth": 1458,
     "timeYear": 1410,
     "dailyMinutesDown": {
+      "2022-02-18": 1,
       "2022-01-29": 16
     }
   },
@@ -234,9 +235,9 @@
     "url": "https://avanceimport.com",
     "icon": "https://favicons.githubusercontent.com/avanceimport.com",
     "slug": "avance-import",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -246,6 +247,7 @@
     "timeMonth": 1325,
     "timeYear": 1314,
     "dailyMinutesDown": {
+      "2022-02-18": 0,
       "2022-01-29": 16
     }
   },
