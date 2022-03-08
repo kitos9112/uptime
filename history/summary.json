@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 41,
+      "2022-03-08": 1064,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 41,
+      "2022-03-08": 1064,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -168,7 +168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-08": 41,
+      "2022-03-08": 1064,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
@@ -250,9 +250,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -261,7 +261,9 @@
     "timeWeek": 188,
     "timeMonth": 234,
     "timeYear": 242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "Vinos Divertidos",
