@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-17": 45,
+      "2022-03-17": 655,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
@@ -101,7 +101,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-17": 45,
+      "2022-03-17": 655,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-17": 45,
+      "2022-03-17": 655,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
@@ -295,9 +295,9 @@
     "url": "https://vinosdivertidos.es",
     "icon": "https://favicons.githubusercontent.com/vinosdivertidos.es",
     "slug": "vinos-divertidos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -307,6 +307,7 @@
     "timeMonth": 1436,
     "timeYear": 1421,
     "dailyMinutesDown": {
+      "2022-03-17": 0,
       "2022-03-03": 19,
       "2022-01-29": 16
     }
