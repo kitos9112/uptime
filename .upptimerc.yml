@@ -6,9 +6,9 @@ sites:
   - name: DMZ UK Home Website
     url: $DMZ_UK_HOME_DOMAIN
   - name: HASS UK Home Website
-    url: https://hass.uk.$HOME_SECRET_DOMAIN
-  - name: MOODLE BCN Home Website
-    url: https://moodle.bcn.$HOME_SECRET_DOMAIN
+    url: $HASS_UK_HOME_DOMAIN
+  - name: Moodle BCN Home Website
+    url: $MOODLE_BCN_SECRET_DOMAIN
   - name: Google Website
     icon: https://www.google.com/favicon.ico
     url: https://www.google.com
