@@ -4,7 +4,7 @@ repo: uptime
 
 sites:
   - name: DMZ UK Home Website
-    url: https://dmz.uk.$HOME_SECRET_DOMAIN
+    url: $DMZ_UK_HOME_DOMAIN
   - name: HASS UK Home Website
     url: https://hass.uk.$HOME_SECRET_DOMAIN
   - name: MOODLE BCN Home Website
