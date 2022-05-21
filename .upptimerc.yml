@@ -3,6 +3,8 @@ owner: kitos9112
 repo: uptime
 
 sites:
+sites:
+  # HOME
   - name: DMZ UK Home Website
     url: $DMZ_UK_HOME_DOMAIN
 
@@ -12,33 +14,28 @@ sites:
   - name: Moodle BCN Home Website
     url: $MOODLE_BCN_SECRET_DOMAIN
 
-  - name: Google Website
-    icon: https://www.google.com/favicon.ico
-    url: https://www.google.com
-
-  - name: Wikipedia Website
-    url: https://en.wikipedia.org
-
+  # Avanceimport/Vinosdivertidos
   - name: Vinos Divertidos
     url: https://vinosdivertidos.es
 
   - name: Avance Import
     url: https://avanceimport.com
 
-  - name: Vodafone Website
-    url: www.vodafone.com
+  # Hummingbot-PaaS
+  - name: Hummingbot PaaS Grafana
+    url: $HMBT_GRAFANA_SECRET_DOMAIN
 
-  - name: Google DNS 1 TCP Probe
-    icon: https://www.google.com/favicon.ico
-    check: "tcp-ping"
-    url: 8.8.4.4
-    port: 53
+  # - name: Google DNS 1 TCP Probe
+  #   icon: https://www.google.com/favicon.ico
+  #   check: "tcp-ping"
+  #   url: 8.8.4.4
+  #   port: 53
 
-  - name: Google DNS 2 TCP Probe
-    icon: https://www.google.com/favicon.ico
-    check: "tcp-ping"
-    url: 8.8.8.8
-    port: 53
+  # - name: Google DNS 2 TCP Probe
+  #   icon: https://www.google.com/favicon.ico
+  #   check: "tcp-ping"
+  #   url: 8.8.8.8
+  #   port: 53
 
 assignees:
   - kitos9112
