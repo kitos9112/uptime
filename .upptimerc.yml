@@ -3,7 +3,6 @@ owner: kitos9112
 repo: uptime
 
 sites:
-sites:
   # HOME
   - name: DMZ UK Home Website
     url: $DMZ_UK_HOME_DOMAIN
