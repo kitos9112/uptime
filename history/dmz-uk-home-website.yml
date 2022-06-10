@@ -1,7 +1,7 @@
 url: $DMZ_UK_HOME_DOMAIN
-status: down
-code: 502
-responseTime: 508
-lastUpdated: 2022-06-10T23:20:26.050Z
+status: up
+code: 200
+responseTime: 1031
+lastUpdated: 2022-06-10T23:49:49.376Z
 startTime: Tue Jan 11 2022 18:26:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
