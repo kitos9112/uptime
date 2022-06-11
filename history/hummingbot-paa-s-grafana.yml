@@ -1,7 +1,7 @@
 url: $HMBT_GRAFANA_SECRET_DOMAIN
 status: down
 code: 503
-responseTime: 449
-lastUpdated: 2022-06-10T23:20:35.066Z
+responseTime: 138
+lastUpdated: 2022-06-11T23:19:00.276Z
 startTime: Sat May 21 2022 18:03:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
