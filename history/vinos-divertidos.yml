@@ -1,7 +1,7 @@
 url: https://vinosdivertidos.es
-status: up
-code: 200
-responseTime: 3793
-lastUpdated: 2022-07-02T23:19:24.646Z
+status: down
+code: 500
+responseTime: 850
+lastUpdated: 2022-07-03T22:58:13.679Z
 startTime: Tue Jan 11 2022 18:14:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
