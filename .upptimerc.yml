@@ -20,10 +20,6 @@ sites:
   - name: Avance Import
     url: https://avanceimport.com
 
-  # Hummingbot-PaaS
-  - name: Hummingbot PaaS Grafana
-    url: $HMBT_GRAFANA_SECRET_DOMAIN
-
   # - name: Google DNS 1 TCP Probe
   #   icon: https://www.google.com/favicon.ico
   #   check: "tcp-ping"
