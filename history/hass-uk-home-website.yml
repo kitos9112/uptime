@@ -1,7 +1,7 @@
 url: $HASS_UK_HOME_DOMAIN
-status: down
-code: 503
-responseTime: 605
-lastUpdated: 2023-01-17T20:34:03.683Z
+status: up
+code: 200
+responseTime: 589
+lastUpdated: 2023-01-17T20:59:41.374Z
 startTime: Tue Jan 11 2022 18:14:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
