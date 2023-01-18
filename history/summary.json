@@ -140,16 +140,16 @@
     "url": "$HASS_UK_HOME_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
-    "status": "up",
-    "uptime": "54.00%",
-    "uptimeDay": "24.19%",
+    "status": "down",
+    "uptime": "54.02%",
+    "uptimeDay": "25.45%",
     "uptimeWeek": "64.74%",
-    "uptimeMonth": "40.10%",
-    "uptimeYear": "53.19%",
+    "uptimeMonth": "40.15%",
+    "uptimeYear": "53.21%",
     "time": 604,
-    "timeDay": 532,
-    "timeWeek": 544,
-    "timeMonth": 554,
+    "timeDay": 528,
+    "timeWeek": 543,
+    "timeMonth": 553,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2023-01-18": 236,
@@ -347,8 +347,7 @@
       "2022-04-29": 462,
       "2022-04-28": 42,
       "2022-04-26": 30,
-      "2022-04-25": 171,
-      "2022-04-24": 111
+      "2022-04-25": 171
     }
   },
   {
