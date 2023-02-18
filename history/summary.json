@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "73.31%",
     "uptimeDay": "1.55%",
-    "uptimeWeek": "70.33%",
-    "uptimeMonth": "74.82%",
+    "uptimeWeek": "70.14%",
+    "uptimeMonth": "74.77%",
     "uptimeYear": "80.88%",
     "time": 691,
     "timeDay": 4221,
@@ -16,7 +16,7 @@
     "timeMonth": 779,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-02-18": 636,
+      "2023-02-18": 656,
       "2023-02-17": 1428,
       "2023-02-16": 907,
       "2023-02-12": 20,
@@ -121,10 +121,10 @@
     "url": "$HASS_UK_HOME_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
-    "status": "up",
-    "uptime": "91.75%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.10%",
+    "status": "down",
+    "uptime": "91.76%",
+    "uptimeDay": "2.06%",
+    "uptimeWeek": "0.29%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "90.90%",
     "time": 598,
@@ -170,8 +170,7 @@
       "2023-01-15": 1205,
       "2023-01-14": 76,
       "2023-01-11": 26,
-      "2023-01-08": 16,
-      "2023-01-06": 19
+      "2023-01-08": 16
     }
   },
   {
