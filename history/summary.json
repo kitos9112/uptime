@@ -5,9 +5,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "74.40%",
-    "uptimeDay": "46.87%",
-    "uptimeWeek": "92.41%",
+    "uptime": "74.39%",
+    "uptimeDay": "41.54%",
+    "uptimeWeek": "91.65%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "87.90%",
     "time": 685,
@@ -16,7 +16,8 @@
     "timeMonth": 630,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2023-03-18": 765,
+      "2023-03-19": 57,
+      "2023-03-18": 785,
       "2023-02-28": 932,
       "2023-02-27": 493,
       "2023-02-19": 1214,
@@ -88,8 +89,7 @@
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
-      "2022-03-20": 1440,
-      "2022-03-19": 1440
+      "2022-03-20": 1440
     }
   },
   {
@@ -98,18 +98,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "87.63%",
+    "uptime": "87.62%",
     "uptimeDay": "53.12%",
     "uptimeWeek": "7.59%",
     "uptimeMonth": "35.37%",
-    "uptimeYear": "85.38%",
+    "uptimeYear": "85.37%",
     "time": 599,
     "timeDay": 932,
     "timeWeek": 932,
     "timeMonth": 669,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-03-18": 655,
+      "2023-03-19": 57,
+      "2023-03-18": 675,
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
@@ -178,7 +179,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "92.34%",
+    "uptimeYear": "92.36%",
     "time": 786,
     "timeDay": 749,
     "timeWeek": 755,
@@ -218,8 +219,7 @@
       "2022-03-23": 1440,
       "2022-03-22": 1440,
       "2022-03-21": 1440,
-      "2022-03-20": 1440,
-      "2022-03-19": 1440
+      "2022-03-20": 1440
     }
   },
   {
