@@ -13,12 +13,15 @@ sites:
   - name: Moodle BCN Home Website
     url: $MOODLE_BCN_SECRET_DOMAIN
 
-  # Avanceimport/Vinosdivertidos
+  # Avanceimport/Vinosdivertidos/Others
   - name: Vinos Divertidos
     url: https://vinosdivertidos.es
 
   - name: Avance Import
     url: https://avanceimport.com
+
+  - name: El Amante Altea
+    url: https://elamantealrea.com
 
   # - name: Google DNS 1 TCP Probe
   #   icon: https://www.google.com/favicon.ico
