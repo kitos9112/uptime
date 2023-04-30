@@ -397,18 +397,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/elamantealrea.com.ico",
     "slug": "el-amante-altea",
     "status": "down",
-    "uptime": "4.23%",
-    "uptimeDay": "4.23%",
-    "uptimeWeek": "4.23%",
-    "uptimeMonth": "4.23%",
-    "uptimeYear": "4.23%",
+    "uptime": "1.59%",
+    "uptimeDay": "1.59%",
+    "uptimeWeek": "1.59%",
+    "uptimeMonth": "1.59%",
+    "uptimeYear": "1.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 0
+      "2023-04-30": 1
     }
   }
 ]
