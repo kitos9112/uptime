@@ -1,7 +1,7 @@
 url: $MOODLE_BCN_SECRET_DOMAIN
-status: down
-code: 500
-responseTime: 518
-lastUpdated: 2023-07-10T19:59:15.658Z
+status: up
+code: 200
+responseTime: 4080
+lastUpdated: 2023-07-10T20:19:26.975Z
 startTime: Tue Jan 11 2022 18:15:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
