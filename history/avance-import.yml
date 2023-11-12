@@ -1,7 +1,7 @@
 url: https://avanceimport.com
-status: up
-code: 200
-responseTime: 3332
-lastUpdated: 2023-11-11T23:15:33.362Z
+status: down
+code: 500
+responseTime: 515
+lastUpdated: 2023-11-12T17:34:43.394Z
 startTime: 2022-01-12T00:59:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
