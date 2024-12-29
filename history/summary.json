@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "32.54%",
+    "uptime": "32.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-28": 10,
+      "2024-12-29": 11,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -379,8 +380,7 @@
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "37.12%",
+    "uptime": "37.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-12-28": 10,
+      "2024-12-29": 11,
+      "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
@@ -763,8 +764,7 @@
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -773,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "76.53%",
+    "uptime": "76.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "47.40%",
-    "uptimeMonth": "12.29%",
+    "uptimeWeek": "61.70%",
+    "uptimeMonth": "15.58%",
     "uptimeYear": "57.24%",
     "time": 756,
-    "timeDay": 567,
-    "timeWeek": 867,
-    "timeMonth": 867,
+    "timeDay": 650,
+    "timeWeek": 842,
+    "timeMonth": 842,
     "timeYear": 712,
     "dailyMinutesDown": {
       "2024-12-24": 992,
@@ -959,16 +959,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vinosdivertidos.es.ico",
     "slug": "vinos-divertidos",
     "status": "up",
-    "uptime": "85.19%",
+    "uptime": "85.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.32%",
-    "time": 8211,
-    "timeDay": 884,
-    "timeWeek": 812,
-    "timeMonth": 1041,
-    "timeYear": 10289,
+    "uptimeYear": "58.59%",
+    "time": 8209,
+    "timeDay": 864,
+    "timeWeek": 835,
+    "timeMonth": 1029,
+    "timeYear": 10290,
     "dailyMinutesDown": {
       "2024-11-05": 22,
       "2024-10-08": 827,
@@ -1130,8 +1130,7 @@
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
-      "2023-12-31": 1440,
-      "2023-12-30": 1440
+      "2023-12-31": 1440
     }
   },
   {
@@ -1145,10 +1144,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 3083,
-    "timeDay": 2840,
+    "time": 3086,
+    "timeDay": 3027,
     "timeWeek": 3072,
-    "timeMonth": 3201,
+    "timeMonth": 3182,
     "timeYear": 3275,
     "dailyMinutesDown": {
       "2024-11-05": 22,
@@ -1171,11 +1170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.30%",
-    "time": 3934,
-    "timeDay": 3851,
-    "timeWeek": 3896,
-    "timeMonth": 4066,
-    "timeYear": 3908,
+    "time": 3936,
+    "timeDay": 4145,
+    "timeWeek": 3913,
+    "timeMonth": 4053,
+    "timeYear": 3911,
     "dailyMinutesDown": {
       "2024-12-16": 50,
       "2024-11-05": 269,
