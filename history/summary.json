@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-14": 1016,
+      "2025-01-15": 10,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -379,8 +380,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "36.53%",
+    "uptime": "36.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-01-14": 1016,
+      "2025-01-15": 10,
+      "2025-01-14": 1440,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -763,8 +764,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "76.90%",
+    "uptime": "76.91%",
     "uptimeDay": "98.28%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "67.13%",
+    "uptimeMonth": "68.12%",
     "uptimeYear": "57.24%",
-    "time": 732,
-    "timeDay": 706,
-    "timeWeek": 688,
-    "timeMonth": 727,
-    "timeYear": 705,
+    "time": 731,
+    "timeDay": 606,
+    "timeWeek": 684,
+    "timeMonth": 721,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-01-14": 25,
       "2024-12-24": 992,
@@ -963,12 +963,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.16%",
-    "time": 8199,
-    "timeDay": 1172,
-    "timeWeek": 1375,
-    "timeMonth": 999,
-    "timeYear": 10289,
+    "uptimeYear": "63.25%",
+    "time": 8196,
+    "timeDay": 706,
+    "timeWeek": 1366,
+    "timeMonth": 1000,
+    "timeYear": 10290,
     "dailyMinutesDown": {
       "2024-11-05": 22,
       "2024-10-08": 827,
@@ -1113,8 +1113,7 @@
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
-      "2024-01-17": 1440,
-      "2024-01-16": 1440
+      "2024-01-17": 1440
     }
   },
   {
@@ -1128,11 +1127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 3170,
-    "timeDay": 2891,
-    "timeWeek": 3057,
-    "timeMonth": 3283,
-    "timeYear": 3268,
+    "time": 3173,
+    "timeDay": 3093,
+    "timeWeek": 3102,
+    "timeMonth": 3258,
+    "timeYear": 3269,
     "dailyMinutesDown": {
       "2025-01-02": 37,
       "2024-11-05": 22,
@@ -1151,17 +1150,16 @@
     "slug": "el-amante-altea",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.30%",
-    "time": 3918,
-    "timeDay": 2819,
-    "timeWeek": 4186,
+    "time": 3919,
+    "timeDay": 2758,
+    "timeWeek": 4143,
     "timeMonth": 4079,
-    "timeYear": 3931,
+    "timeYear": 3929,
     "dailyMinutesDown": {
-      "2025-01-14": 7,
       "2025-01-06": 33,
       "2024-12-16": 50,
       "2024-11-05": 269,
