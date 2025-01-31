@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 1357,
+      "2025-01-31": 10,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -379,8 +380,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-01-30": 1357,
+      "2025-01-31": 10,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -763,8 +764,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "77.23%",
+    "uptime": "77.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "57.22%",
-    "time": 727,
-    "timeDay": 512,
-    "timeWeek": 936,
+    "time": 726,
+    "timeDay": 615,
+    "timeWeek": 946,
     "timeMonth": 729,
-    "timeYear": 708,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2025-01-26": 98,
       "2025-01-14": 25,
@@ -964,12 +964,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.61%",
+    "uptimeYear": "67.63%",
     "time": 8177,
-    "timeDay": 815,
-    "timeWeek": 882,
-    "timeMonth": 1002,
-    "timeYear": 10301,
+    "timeDay": 901,
+    "timeWeek": 906,
+    "timeMonth": 1000,
+    "timeYear": 10302,
     "dailyMinutesDown": {
       "2024-11-05": 22,
       "2024-10-08": 827,
@@ -1098,8 +1098,7 @@
       "2024-02-12": 15,
       "2024-02-04": 357,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -1113,11 +1112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 3251,
-    "timeDay": 2496,
-    "timeWeek": 3385,
-    "timeMonth": 3426,
-    "timeYear": 3272,
+    "time": 3254,
+    "timeDay": 2720,
+    "timeWeek": 3344,
+    "timeMonth": 3403,
+    "timeYear": 3271,
     "dailyMinutesDown": {
       "2025-01-02": 37,
       "2024-11-05": 22,
@@ -1136,17 +1135,16 @@
     "slug": "el-amante-altea",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.30%",
-    "time": 3921,
-    "timeDay": 2978,
-    "timeWeek": 5112,
-    "timeMonth": 4354,
-    "timeYear": 3981,
+    "time": 3922,
+    "timeDay": 2999,
+    "timeWeek": 3747,
+    "timeMonth": 4355,
+    "timeYear": 3983,
     "dailyMinutesDown": {
-      "2025-01-30": 8,
       "2025-01-06": 33,
       "2024-12-16": 50,
       "2024-11-05": 269,
