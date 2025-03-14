@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "30.42%",
+    "uptime": "30.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-13": 711,
+      "2025-03-14": 11,
+      "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -379,8 +380,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "34.70%",
+    "uptime": "34.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-03-13": 711,
+      "2025-03-14": 11,
+      "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -763,8 +764,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "down",
-    "uptime": "76.88%",
-    "uptimeDay": "87.54%",
-    "uptimeWeek": "98.22%",
+    "uptime": "76.85%",
+    "uptimeDay": "36.18%",
+    "uptimeWeek": "90.88%",
     "uptimeMonth": "95.45%",
     "uptimeYear": "58.32%",
     "time": 714,
-    "timeDay": 817,
-    "timeWeek": 685,
+    "timeDay": 0,
+    "timeWeek": 701,
     "timeMonth": 708,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-03-13": 179,
+      "2025-03-14": 11,
+      "2025-03-13": 908,
       "2025-02-14": 1084,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -946,8 +947,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -956,16 +956,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vinosdivertidos.es.ico",
     "slug": "vinos-divertidos",
     "status": "up",
-    "uptime": "86.14%",
+    "uptime": "86.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.58%",
-    "time": 4878,
-    "timeDay": 1257,
-    "timeWeek": 913,
-    "timeMonth": 882,
-    "timeYear": 1583,
+    "uptimeYear": "71.73%",
+    "time": 4819,
+    "timeDay": 830,
+    "timeWeek": 891,
+    "timeMonth": 886,
+    "timeYear": 1580,
     "dailyMinutesDown": {
       "2025-02-06": 288,
       "2024-11-05": 22,
@@ -1072,8 +1072,7 @@
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
-      "2024-03-15": 1440,
-      "2024-03-14": 1440
+      "2024-03-15": 1440
     }
   },
   {
@@ -1087,10 +1086,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 3298,
-    "timeDay": 4046,
-    "timeWeek": 3600,
-    "timeMonth": 3382,
+    "time": 3299,
+    "timeDay": 3257,
+    "timeWeek": 3580,
+    "timeMonth": 3405,
     "timeYear": 3289,
     "dailyMinutesDown": {
       "2025-01-02": 37,
@@ -1110,17 +1109,16 @@
     "slug": "el-amante-altea",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.31%",
-    "time": 3908,
-    "timeDay": 3289,
-    "timeWeek": 4029,
-    "timeMonth": 4072,
-    "timeYear": 3999,
+    "time": 3911,
+    "timeDay": 3498,
+    "timeWeek": 4148,
+    "timeMonth": 4113,
+    "timeYear": 4004,
     "dailyMinutesDown": {
-      "2025-03-13": 7,
       "2025-02-26": 34,
       "2025-02-24": 24,
       "2025-01-06": 33,
