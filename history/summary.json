@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "30.04%",
+    "uptime": "30.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-28": 11,
+      "2025-03-29": 11,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -379,8 +380,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "34.27%",
+    "uptime": "34.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 390,
+    "time": 387,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-03-28": 11,
+      "2025-03-29": 11,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -763,8 +764,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -773,10 +773,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "down",
-    "uptime": "75.93%",
+    "uptime": "75.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.88%",
+    "uptimeMonth": "48.59%",
     "uptimeYear": "58.32%",
     "time": 714,
     "timeDay": 0,
@@ -784,7 +784,8 @@
     "timeMonth": 687,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-03-28": 11,
+      "2025-03-29": 11,
+      "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -946,8 +947,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -956,16 +956,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vinosdivertidos.es.ico",
     "slug": "vinos-divertidos",
     "status": "up",
-    "uptime": "86.31%",
+    "uptime": "86.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.56%",
-    "time": 4281,
-    "timeDay": 1340,
-    "timeWeek": 1315,
-    "timeMonth": 1051,
-    "timeYear": 1560,
+    "uptimeYear": "75.84%",
+    "time": 4272,
+    "timeDay": 1194,
+    "timeWeek": 1394,
+    "timeMonth": 1056,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-02-06": 288,
       "2024-11-05": 22,
@@ -1057,8 +1057,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1440,
-      "2024-03-30": 1440,
-      "2024-03-29": 1440
+      "2024-03-30": 1440
     }
   },
   {
@@ -1072,11 +1071,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 3297,
-    "timeDay": 4057,
-    "timeWeek": 3486,
-    "timeMonth": 3388,
-    "timeYear": 3284,
+    "time": 3298,
+    "timeDay": 4029,
+    "timeWeek": 3567,
+    "timeMonth": 3409,
+    "timeYear": 3287,
     "dailyMinutesDown": {
       "2025-01-02": 37,
       "2024-11-05": 22,
@@ -1099,11 +1098,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 3917,
-    "timeDay": 4717,
-    "timeWeek": 3766,
-    "timeMonth": 4024,
-    "timeYear": 4009,
+    "time": 3920,
+    "timeDay": 4576,
+    "timeWeek": 3830,
+    "timeMonth": 4041,
+    "timeYear": 4012,
     "dailyMinutesDown": {
       "2025-02-26": 34,
       "2025-02-24": 24,
