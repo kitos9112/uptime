@@ -8,7 +8,7 @@
     "uptime": "29.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-30": 1371,
+      "2025-03-31": 12,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -379,8 +380,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "34.19%",
+    "uptime": "34.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 387,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-03-30": 1371,
+      "2025-03-31": 12,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -763,8 +764,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "down",
-    "uptime": "75.74%",
+    "uptime": "75.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.20%",
+    "uptimeMonth": "42.02%",
     "uptimeYear": "58.32%",
-    "time": 714,
+    "time": 713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 687,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-03-30": 1371,
+      "2025-03-31": 12,
+      "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
@@ -946,8 +947,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -960,12 +960,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.37%",
-    "time": 4211,
-    "timeDay": 1191,
-    "timeWeek": 1307,
-    "timeMonth": 1060,
-    "timeYear": 1558,
+    "uptimeYear": "76.38%",
+    "time": 4202,
+    "timeDay": 1164,
+    "timeWeek": 1351,
+    "timeMonth": 1064,
+    "timeYear": 1557,
     "dailyMinutesDown": {
       "2025-02-06": 288,
       "2024-11-05": 22,
@@ -1055,8 +1055,7 @@
       "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
-      "2024-04-01": 1440,
-      "2024-03-31": 1440
+      "2024-04-01": 1440
     }
   },
   {
@@ -1071,10 +1070,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 3300,
-    "timeDay": 4666,
-    "timeWeek": 3646,
-    "timeMonth": 3448,
-    "timeYear": 3291,
+    "timeDay": 3344,
+    "timeWeek": 3702,
+    "timeMonth": 3445,
+    "timeYear": 3290,
     "dailyMinutesDown": {
       "2025-01-02": 37,
       "2024-11-05": 22,
@@ -1093,17 +1092,16 @@
     "slug": "el-amante-altea",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 3927,
-    "timeDay": 5163,
-    "timeWeek": 4094,
-    "timeMonth": 4105,
-    "timeYear": 4021,
+    "time": 3921,
+    "timeDay": 5144,
+    "timeWeek": 4320,
+    "timeMonth": 4122,
+    "timeYear": 4024,
     "dailyMinutesDown": {
-      "2025-03-30": 7,
       "2025-02-26": 34,
       "2025-02-24": 24,
       "2025-01-06": 33,
