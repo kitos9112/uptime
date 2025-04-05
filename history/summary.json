@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "29.86%",
+    "uptime": "29.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-04": 11,
+      "2025-04-05": 11,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -379,8 +380,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "34.07%",
+    "uptime": "34.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-04-04": 11,
+      "2025-04-05": 11,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -763,8 +764,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "down",
-    "uptime": "75.48%",
+    "uptime": "75.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.87%",
+    "uptimeMonth": "25.58%",
     "uptimeYear": "58.32%",
     "time": 712,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 699,
+    "timeMonth": 691,
     "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-04-04": 11,
+      "2025-04-05": 11,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -946,8 +947,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -956,16 +956,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vinosdivertidos.es.ico",
     "slug": "vinos-divertidos",
     "status": "up",
-    "uptime": "86.40%",
-    "uptimeDay": "98.33%",
+    "uptime": "86.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "77.47%",
-    "time": 4019,
-    "timeDay": 1026,
+    "uptimeYear": "77.75%",
+    "time": 3935,
+    "timeDay": 1194,
     "timeWeek": 1567,
-    "timeMonth": 1201,
-    "timeYear": 1561,
+    "timeMonth": 1205,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-04-03": 30,
       "2025-02-06": 288,
@@ -1051,8 +1051,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
-      "2024-04-06": 1440,
-      "2024-04-05": 1440
+      "2024-04-06": 1440
     }
   },
   {
@@ -1062,15 +1061,15 @@
     "slug": "avance-import",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "95.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.91%",
-    "time": 3350,
-    "timeDay": 8722,
-    "timeWeek": 6123,
-    "timeMonth": 4210,
-    "timeYear": 3362,
+    "time": 3351,
+    "timeDay": 4037,
+    "timeWeek": 6124,
+    "timeMonth": 4194,
+    "timeYear": 3365,
     "dailyMinutesDown": {
       "2025-04-03": 64,
       "2025-01-02": 37,
@@ -1090,15 +1089,15 @@
     "slug": "el-amante-altea",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.29%",
-    "time": 3979,
-    "timeDay": 11582,
-    "timeWeek": 7561,
-    "timeMonth": 4886,
-    "timeYear": 4102,
+    "time": 3981,
+    "timeDay": 4611,
+    "timeWeek": 7565,
+    "timeMonth": 4896,
+    "timeYear": 4106,
     "dailyMinutesDown": {
       "2025-04-03": 36,
       "2025-04-02": 31,
