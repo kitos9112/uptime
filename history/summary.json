@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "28.19%",
+    "uptime": "28.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-13": 12,
+      "2025-06-14": 12,
+      "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -379,8 +380,7 @@
       "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
-      "2024-06-15": 1440,
-      "2024-06-14": 1440
+      "2024-06-15": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "32.16%",
+    "uptime": "32.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2025-06-13": 12,
+      "2025-06-14": 12,
+      "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
@@ -763,8 +764,7 @@
       "2024-06-18": 1440,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
-      "2024-06-15": 1440,
-      "2024-06-14": 1440
+      "2024-06-15": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "73.25%",
+    "uptime": "73.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.55%",
+    "uptimeMonth": "83.83%",
     "uptimeYear": "55.87%",
     "time": 701,
-    "timeDay": 601,
-    "timeWeek": 647,
-    "timeMonth": 664,
-    "timeYear": 691,
+    "timeDay": 588,
+    "timeWeek": 649,
+    "timeMonth": 661,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2025-05-18": 1333,
       "2025-05-17": 1440,
