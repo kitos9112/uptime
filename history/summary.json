@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "27.72%",
+    "uptime": "27.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-04": 12,
+      "2025-07-05": 11,
+      "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -379,8 +380,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "31.63%",
+    "uptime": "31.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 387,
+    "time": 388,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2025-07-04": 12,
+      "2025-07-05": 12,
+      "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
@@ -763,8 +764,7 @@
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
-      "2024-07-06": 1440,
-      "2024-07-05": 1440
+      "2024-07-06": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "73.69%",
+    "uptime": "73.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "55.85%",
-    "time": 700,
-    "timeDay": 652,
-    "timeWeek": 740,
-    "timeMonth": 674,
-    "timeYear": 692,
+    "time": 699,
+    "timeDay": 563,
+    "timeWeek": 702,
+    "timeMonth": 671,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2025-06-15": 136,
       "2025-05-18": 1333,
