@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "27.55%",
+    "uptime": "27.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-12": 12,
+      "2025-07-13": 14,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -379,8 +380,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "31.43%",
+    "uptime": "31.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-07-12": 12,
+      "2025-07-13": 14,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
@@ -763,8 +764,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
-      "2024-07-14": 1440,
-      "2024-07-13": 1440
+      "2024-07-14": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "down",
-    "uptime": "73.77%",
+    "uptime": "73.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.11%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "55.54%",
+    "uptimeWeek": "69.80%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "55.27%",
     "time": 699,
     "timeDay": 0,
-    "timeWeek": 677,
-    "timeMonth": 676,
-    "timeYear": 687,
+    "timeWeek": 661,
+    "timeMonth": 678,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-07-12": 12,
+      "2025-07-13": 14,
+      "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 150,
       "2025-06-15": 136,
