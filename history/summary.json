@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "23.30%",
+    "uptime": "23.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.21%",
     "uptimeMonth": "8.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-03-02": 16,
+      "2026-03-03": 17,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1419,
@@ -379,8 +380,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "26.58%",
+    "uptime": "26.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 16,
+      "2026-03-03": 17,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -763,8 +764,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "72.24%",
+    "uptime": "72.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.93%",
-    "uptimeMonth": "24.05%",
+    "uptimeWeek": "84.23%",
+    "uptimeMonth": "27.34%",
     "uptimeYear": "58.36%",
     "time": 735,
-    "timeDay": 629,
-    "timeWeek": 653,
-    "timeMonth": 653,
-    "timeYear": 735,
+    "timeDay": 744,
+    "timeWeek": 664,
+    "timeMonth": 664,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2026-02-27": 116,
       "2026-02-25": 51,
