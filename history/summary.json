@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dmz-uk-home-website",
     "status": "down",
-    "uptime": "22.49%",
+    "uptime": "22.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2026-04-25": 24,
+      "2026-04-26": 26,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -379,8 +380,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hass-uk-home-website",
     "status": "down",
-    "uptime": "25.66%",
+    "uptime": "25.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 24,
+      "2026-04-26": 26,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -763,8 +764,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "moodle-bcn-home-website",
     "status": "up",
-    "uptime": "72.83%",
-    "uptimeDay": "37.82%",
+    "uptime": "72.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "20.52%",
-    "uptimeMonth": "81.49%",
-    "uptimeYear": "68.49%",
-    "time": 726,
-    "timeDay": 852,
-    "timeWeek": 763,
-    "timeMonth": 673,
-    "timeYear": 725,
+    "uptimeMonth": "81.60%",
+    "uptimeYear": "68.77%",
+    "time": 725,
+    "timeDay": 532,
+    "timeWeek": 745,
+    "timeMonth": 672,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2026-04-24": 920,
       "2026-04-23": 1440,
@@ -907,8 +907,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   }
 ]
